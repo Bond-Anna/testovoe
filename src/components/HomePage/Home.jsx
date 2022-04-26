@@ -15,6 +15,7 @@ export default function Home() {
           <Card key={el.id} data={el} />
         ))}
       </div>
+      <p>test</p>
     </>
   );
 }
